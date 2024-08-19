@@ -66,7 +66,7 @@ Aqui está uma breve visão geral da estrutura do projeto:
 - GlobalStyles: diretório de estilos globais.
   
 ## 🎨 Personalizações
-Você pode personalizar o projeto modificando os componentes e os estilos no diretório src/components e src/style.css. Sinta-se à vontade para adicionar novos componentes e explorar mais sobre o React!
+Você pode personalizar o projeto modificando os componentes e os estilos no diretório src/components. Sinta-se à vontade para adicionar novos componentes e explorar mais sobre o React!
 
 ## 🤝 Contribuições
 Sinta-se livre para contribuir com melhorias! Se você tiver sugestões ou encontrar problemas, abra uma issue ou um pull request no repositório.
